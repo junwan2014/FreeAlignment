@@ -1,9 +1,1 @@
-self.noun_bucket 是是一个字典，存放的是类别的文本表示，可以根据类别名称读取
-self.task_embeddings 也是一个字典，存放的是任务类别的文本表示，可以根据任务类别进行读取，如semantic segmentation [5, 512], instanse segmentation [4, 512], panoptic segmentation [5, 512]
-self.task_prompt [8, 512],默认是8个任务，这里采用Kaiming进行初始化，应该不是位置编码，这里不是相加
-self.start_signal
-self.prefix_prompt [16, 512]
-self.dot_signal
-self.end_signal
 
-torch.cat([task_prompt, prefix, self.noun_bucket[noun], suffix]+ [self.pad_signal.expand(77 - length, -1)]), 任务提示，前缀，类别提示，后缀提示，不足77的补到77.
