@@ -5,7 +5,6 @@
 * torch>=1.10.0
 * torchvision>=0.11.1
 * timm>=0.6.12
-* detectron2>=0.6.0 follow [Detectron2 installation instructions](https://detectron2.readthedocs.io/en/latest/tutorials/install.html).
 * requirement.txt
 
 ### Other dependency
@@ -21,6 +20,19 @@ CUDA kernel for MSDeformAttn
 cd mask2former/modeling/heads/ops
 bash make.sh
 ```
+
+detectron
+```bash
+cd detectron_repo
+pip install -e .
+```
+
+panopticapi 1.0
+```bash
+cd panopticapi-master
+pip install -e .
+```
+
 
 ### Datasets
 You should download 300W, COFW, AFLW and WFLW datasets first.
