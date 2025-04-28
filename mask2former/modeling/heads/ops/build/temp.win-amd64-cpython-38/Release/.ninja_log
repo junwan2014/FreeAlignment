@@ -1,0 +1,4 @@
+# ninja log v5
+1	2713	7671656067547302	D:/python_work/FaceAlignment/FreeAlign/FreeAlignment-main/mask2former/modeling/heads/ops/build/temp.win-amd64-cpython-38/Release/python_work/FaceAlignment/FreeAlign/FreeAlignment-main/mask2former/modeling/heads/ops/src/cpu/ms_deform_attn_cpu.obj	88f5e9ddc5d13ba9
+5	8324	7671656123599085	D:/python_work/FaceAlignment/FreeAlign/FreeAlignment-main/mask2former/modeling/heads/ops/build/temp.win-amd64-cpython-38/Release/python_work/FaceAlignment/FreeAlign/FreeAlignment-main/mask2former/modeling/heads/ops/src/vision.obj	8433abcb0186c9de
+3	10506	7671656145265045	D:/python_work/FaceAlignment/FreeAlign/FreeAlignment-main/mask2former/modeling/heads/ops/build/temp.win-amd64-cpython-38/Release/python_work/FaceAlignment/FreeAlign/FreeAlignment-main/mask2former/modeling/heads/ops/src/cuda/ms_deform_attn_cuda.obj	1fd582ebe6f047a5

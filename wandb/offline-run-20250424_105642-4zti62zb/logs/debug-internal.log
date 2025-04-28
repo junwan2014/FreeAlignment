@@ -1,0 +1,8 @@
+{"time":"2025-04-24T10:56:42.5333023+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\python_work\\FaceAlignment\\FreeAlign\\FreeAlignment-main\\wandb\\offline-run-20250424_105642-4zti62zb\\logs\\debug-core.log"}
+{"time":"2025-04-24T10:56:42.6383968+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-24T10:56:42.6383968+08:00","level":"INFO","msg":"created new stream","id":"4zti62zb"}
+{"time":"2025-04-24T10:56:42.6383968+08:00","level":"INFO","msg":"stream: started","id":"4zti62zb"}
+{"time":"2025-04-24T10:56:42.638975+08:00","level":"INFO","msg":"sender: started","stream_id":"4zti62zb"}
+{"time":"2025-04-24T10:56:42.638975+08:00","level":"INFO","msg":"handler: started","stream_id":"4zti62zb"}
+{"time":"2025-04-24T10:56:42.638975+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"4zti62zb"}
+{"time":"2025-04-24T10:56:42.6462533+08:00","level":"INFO","msg":"Starting system monitor"}

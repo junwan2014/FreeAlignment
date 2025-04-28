@@ -1,0 +1,16 @@
+{"time":"2025-04-24T11:05:37.4201391+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\python_work\\FaceAlignment\\FreeAlign\\FreeAlignment-main\\wandb\\offline-run-20250424_110537-ssw3vude\\logs\\debug-core.log"}
+{"time":"2025-04-24T11:05:37.5248307+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-24T11:05:37.5248307+08:00","level":"INFO","msg":"created new stream","id":"ssw3vude"}
+{"time":"2025-04-24T11:05:37.5248307+08:00","level":"INFO","msg":"stream: started","id":"ssw3vude"}
+{"time":"2025-04-24T11:05:37.5248307+08:00","level":"INFO","msg":"handler: started","stream_id":"ssw3vude"}
+{"time":"2025-04-24T11:05:37.5253318+08:00","level":"INFO","msg":"sender: started","stream_id":"ssw3vude"}
+{"time":"2025-04-24T11:05:37.5253318+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"ssw3vude"}
+{"time":"2025-04-24T11:05:37.5301211+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-24T11:25:36.1719687+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-24T11:25:36.1719687+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-24T11:25:36.1719687+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-24T11:25:36.1754128+08:00","level":"INFO","msg":"stream: closing","id":"ssw3vude"}
+{"time":"2025-04-24T11:25:36.1754128+08:00","level":"INFO","msg":"handler: closed","stream_id":"ssw3vude"}
+{"time":"2025-04-24T11:25:36.1754128+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ssw3vude"}
+{"time":"2025-04-24T11:25:36.1754128+08:00","level":"INFO","msg":"sender: closed","stream_id":"ssw3vude"}
+{"time":"2025-04-24T11:25:36.1754128+08:00","level":"INFO","msg":"stream: closed","id":"ssw3vude"}

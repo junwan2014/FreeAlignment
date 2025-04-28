@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: panopticapi
+Version: 0.1
+License-File: license.txt
+Requires-Dist: numpy
+Requires-Dist: Pillow

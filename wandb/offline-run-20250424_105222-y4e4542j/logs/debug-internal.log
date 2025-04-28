@@ -1,0 +1,15 @@
+{"time":"2025-04-24T10:52:22.9795482+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"D:\\python_work\\FaceAlignment\\FreeAlign\\FreeAlignment-main\\wandb\\offline-run-20250424_105222-y4e4542j\\logs\\debug-core.log"}
+{"time":"2025-04-24T10:52:23.0839615+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-24T10:52:23.0839615+08:00","level":"INFO","msg":"created new stream","id":"y4e4542j"}
+{"time":"2025-04-24T10:52:23.0839615+08:00","level":"INFO","msg":"stream: started","id":"y4e4542j"}
+{"time":"2025-04-24T10:52:23.0839615+08:00","level":"INFO","msg":"handler: started","stream_id":"y4e4542j"}
+{"time":"2025-04-24T10:52:23.084487+08:00","level":"INFO","msg":"sender: started","stream_id":"y4e4542j"}
+{"time":"2025-04-24T10:52:23.084487+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"y4e4542j"}
+{"time":"2025-04-24T10:52:23.0870398+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-24T10:52:25.1101055+08:00","level":"INFO","msg":"stream: closing","id":"y4e4542j"}
+{"time":"2025-04-24T10:52:25.1101055+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-24T10:52:25.1101055+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-24T10:52:25.1101055+08:00","level":"INFO","msg":"handler: closed","stream_id":"y4e4542j"}
+{"time":"2025-04-24T10:52:25.1101055+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"y4e4542j"}
+{"time":"2025-04-24T10:52:25.1101055+08:00","level":"INFO","msg":"sender: closed","stream_id":"y4e4542j"}
+{"time":"2025-04-24T10:52:25.1101055+08:00","level":"INFO","msg":"stream: closed","id":"y4e4542j"}
